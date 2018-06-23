@@ -1,0 +1,65 @@
+*********************
+  Welcome to Farkle 
+*********************
+
+*************
+OBJECTIVE
+*************
+Farkle is a dice game where the objective of the game is to be the first player
+to reach 10,000 points. Each player will roll
+
+*************
+SETUP
+*************
+This game requires at least 2 players, but there is not
+upper limit on the number of players.
+
+*************
+SCORING
+*************
+> Each 1 is worth 100 points.
+> Each 5 is worth 50 points.
+> Three pair is worth 100 times the face value. 
+	(Three 2's is 200 points, 5's is 500 points)
+
+>*Note - Three ones (1) is worth 1,000 points.
+
+*************
+GAMEPLAY
+*************
+> First player rolls six dice at the same time and "sets aside" any point dice 
+  (1's, 5's, three of a kind) that are rolled.
+
+> At this point, player can either choose to roll the remaining dice to collect more
+  points, or keep the current point values.
+
+> If a player rolls the dice, either on the initial roll or the reroll, and not point dice
+  appear, this is called a FARKLE. The player loses all the collected point dice for that 
+  turn and no points are added to the player total score.  Play advances to the next player.
+
+> In order for the player to initially enter the game and record points, the player must first
+  score at least 1,000 points during one turn.  Once the player is entered into the game, the 
+  player may stop rolling at any time and record the collected points on future rolls.
+
+> If a player decides not to roll, the current points for that turn are recored to the player's
+  overall score.  Play advances to the next player. 
+
+> If a player collects all six dice as point dice and are set aside, the player must roll all
+  six dice at least one more time, before stopping and keeping points collected. 
+
+*************
+STRATEGY
+*************
+All point dice do not need to be set aside.  If a player rolls a 1 and a 5, it may be best to
+set aside the 1 and reroll the five to possible collect higher point dice or roll a three of a kind.
+
+*************
+WINNING
+*************
+> First player to record 10,000 points or greater is the winner.
+
+> After player gets over 10,000 points, each player has one turn to try and beat the first player who
+  goes out.  If none of the other player beats the score, that then he/she is the winner. If the score
+  is beaten, then that new player wins.
+
+ 
